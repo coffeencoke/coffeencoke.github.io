@@ -11,3 +11,7 @@ A journal written by [@coffeencoke](https://github.com/coffeencoke) which includ
 *If you have something to contribute, let me know.*
 
 - Coffee n' Coke, The coffee and the coke are good together.
+
+## How is this organized?
+
+You might ask how you should find things.
