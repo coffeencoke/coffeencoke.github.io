@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Coffee n'Coke Community Journal
 
 This is the journal written by [@coffeencoke](https://github.com/coffeencoke).
