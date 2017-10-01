@@ -10,7 +10,7 @@
     * [Search algorithm](https://en.wikipedia.org/wiki/Search_algorithm)
 3. Binary Trees
     * Watch some youtube videos
-    * 
+4. Implement them yourself
 
 ### Deeper Dive
 
