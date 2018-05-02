@@ -10,19 +10,15 @@ A notebook written by [@coffeencoke](https://github.com/coffeencoke) which inclu
 
 > Coffee n' Coke, combine iced espresso, cream, and Coca-Cola.
 
-- [Learning Resources](Development Resources/Learning Resources.md)
+- [Software Programming Resources](software-programming-resources)
+- [Interviewing Resources](interviewing-resources)
 
-<%= site.pages %>
-
-## Background
+## Breifly About Myself
 
 - [I work at Amazon](https://www.linkedin.com/in/coffeencoke/) as a Software Development Engineer for Alexa.
 - I live in Seattle, WA.
 - [My lovely wife is a wedding, anniversary, and adventure photographer](https://bettyelainephotography.com/)
-- I love making ideas come to life, hiking, gardening, cocktails, history, and traveling
-(especially Italy).
+- I love making ideas come to life, hiking, gardening, cocktails, history, traveling
+(especially Italy), corgis, and above all else my awesome family.
 
-## License
-
-This website is licensed under the [MIT license © 2018 Matthew L.
-Simpson](/LICENSE)
+{% include footer.md %}

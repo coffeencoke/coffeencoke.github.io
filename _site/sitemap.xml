@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/interviewing-resources</loc>
+</url>
+<url>
+<loc>http://localhost:4000/license</loc>
+</url>
+<url>
+<loc>http://localhost:4000/README.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/software-programming-resources</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Development%20Resources/Articles/Code%20standards%20that%20matter.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Development%20Resources/Articles/Hatin%E2%80%99%20on%20microservice%20passwords%20%E2%80%94%20Medium.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Development%20Resources/Learning%20Resources.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Development%20Resources/Software%20Development%20Methods%20&amp;%20Philosophies.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Development%20Resources/Tools.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Development%20Resources/Versioning.html</loc>
+</url>
+</urlset>

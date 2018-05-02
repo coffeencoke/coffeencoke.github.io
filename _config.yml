@@ -1,4 +1,11 @@
+author: Matthew L. Simpson
 theme: jekyll-theme-dinky
 title: Coffee n' Coke
 description: A journal written by @coffeencoke which includes notes on software development and product design.
 google_analytics: UA-9324092-1
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock

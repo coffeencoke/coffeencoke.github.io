@@ -1,3 +1,6 @@
+---
+permalink: software-programming-resources
+---
 # Software Programming Resources
 
 ## Interviewing Resources
@@ -49,3 +52,5 @@ A lot of the resources I've used in the past are included in the [Coding Intervi
 * My secondary language is Javascript
 * Wanting to become proficient in java and python
 * I would like to dabble more in Go, and C.
+
+{% include footer.md %}

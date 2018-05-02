@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Begin Jekyll SEO tag v2.4.0 -->
+<title>Versioning | Coffee n’ Coke</title>
+<meta name="generator" content="Jekyll v3.7.3" />
+<meta property="og:title" content="Versioning" />
+<meta name="author" content="Matthew L. Simpson" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A journal written by @coffeencoke which includes notes on software development and product design." />
+<meta property="og:description" content="A journal written by @coffeencoke which includes notes on software development and product design." />
+<link rel="canonical" href="http://localhost:4000/Development%20Resources/Versioning.html" />
+<meta property="og:url" content="http://localhost:4000/Development%20Resources/Versioning.html" />
+<meta property="og:site_name" content="Coffee n’ Coke" />
+<script type="application/ld+json">
+{"description":"A journal written by @coffeencoke which includes notes on software development and product design.","author":{"@type":"Person","name":"Matthew L. Simpson"},"@type":"WebPage","url":"http://localhost:4000/Development%20Resources/Versioning.html","headline":"Versioning","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=fdcbc391de0cc828b3ef5b5a2327690148973429">
+    <script src="/assets/js/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">Coffee n' Coke</h1>
+        <p class="header">A journal written by @coffeencoke which includes notes on software development and product design.</p>
+
+        <ul>
+          
+          <li><a class="buttons github" href="http://github.com/coffeencoke/Notebooks-Community">View On GitHub</a></li>
+        </ul>
+
+        
+          <p class="header">This project is maintained by <a class="header name" href="http://github.com/coffeencoke">coffeencoke</a></p>
+        
+
+        
+      </header>
+
+      <section>
+        <h1 id="versioning">Versioning</h1>
+
+<p>Versioning Software</p>
+
+<p>Versioning can be a random number or can be something that makes your release process fun.  The version format that I like to use, and have found works best, is Major.Minor.Patch (ie. 1.3.2).</p>
+
+<p>Major</p>
+
+<p>Significant enhancement, addition, or update that breaks backward compatibility with the previous major release.</p>
+
+<p>Minor</p>
+
+<p>Smaller enhancement, addition, or update that does not break backward compatibility with the current major release.</p>
+
+<p>Patch</p>
+
+<p>Bug fix.</p>
+
+<p>There are many reasons versioning is important, but just to name a few that have been real for me in the past are: Planning, and API’s for mobile applications.</p>
+
+<p>A version number is a contract.  A contract that states, you, the client, using me, the library, can upgrade me as much as you want and I guarantee that I will not break your code as long as you stay within the same major release number.  That’s as simple as it gets.</p>
+
+<p>Let’s see an example perhaps?</p>
+
+<p>“Awesome API” is at version 1.0.0 and the “Great Mobile App” decides to use the “Awesome API”.  Meanwhile, the developers of “Awesome API” are hard at work making it even more awesome.  They’re receiving bug reports, enhancement requests, feature suggestions and are planning satisfying all of their customers.  There are a few rules that we must understand:</p>
+
+<ol>
+  <li>Bugs must be fixed as soon as possible</li>
+  <li>Enhancements should be released as soon as they are “feature” complete and shippable</li>
+  <li>Some enhancements will break the current API.</li>
+</ol>
+
+<p>Major.Minor.Patch allows you to satisfy all three of those points.</p>
+
+<p>Planning</p>
+
+<p>While planning out what tasks, which I will refer to as stories, you and your team will be developing, often it gets a bit hairy.  By hairy, I mean, you have priorities, but how good are those priorities?  In the end it just seems a bit like eating an early breakfast.  And no, you’re not really supposed to know what I mean by that, it’s just the only way I can explain the feeling.</p>
+
+<p>When you have your stories categorized over a the 3 versioning types by creating milestones for each version type.  Let’s say that you just released your application! Yay, good day, you are at 1.0.0.  As you plan for the next coming iterations of work, you will end up coming up with a pretty decent amount of stories.  The problem is that the developer sees bugs and knows that they NEED fixed, but the business team who mostly drive the priorities of the project think they can just move on to newer and better features without taking head to the bugs that have popped up, because there are no bugs right?  Right.</p>
+
+<p>So, by separating your stories into feature and bug, you now are able to clearly see how many bugs there are, how many are really important and you can come to an agreeable amount of bugs that need to be done.  It’s easier to do a balanced approach.</p>
+
+<p>Current: 1.0.0
+Milestones: 1.0.1, 1.1.0, 2.0.0</p>
+
+<p>As you write issues, place them in these milestones.  Is this a bug? Is this an enhancement or addition?  Will this break the current API?</p>
+
+<p>API’s for Clients</p>
+
+<p>Any client using your API needs to know if they can upgrade safely in case there are some bugs that have been fixed.  Providing this version format satisfies this concern.</p>
+
+<p>Inspiration
+experience
+http://rubyrogues.com/037-rr-versioning-and-releases/</p>
+
+      </section>
+
+      <footer>
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-9324092-1', 'auto');
+        ga('send', 'pageview');
+      </script>
+    
+  </body>
+</html>

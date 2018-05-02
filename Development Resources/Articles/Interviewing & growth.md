@@ -1,3 +1,7 @@
+---
+permalink: interviewing-resources
+---
+
 # SDE Interviewing Resources
 
 ## Algorithms & Data Structures
@@ -44,3 +48,5 @@
 ## Technical Leadership
 
 1. [Effective Technical Leadership](https://medium.com/always-be-coding/effective-technical-leadership-b193a544e771)
+
+{% include footer.md %}
