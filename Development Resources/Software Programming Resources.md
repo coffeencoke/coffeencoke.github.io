@@ -7,7 +7,6 @@ Feel free to share resources you are learning from with me, I am eager to learn
 of new sources of inspiration and knowledge.
 
 - [Interviewing Resources](interviewing-resources)
-- [General Learning Resources](learning-resources)
 
 ## Learning
 
