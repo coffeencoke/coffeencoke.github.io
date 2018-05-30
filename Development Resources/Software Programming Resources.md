@@ -12,6 +12,7 @@ of new sources of inspiration and knowledge.
 
 * [Grow With Google](https://grow.google/)
 * [20 TED Talks on Programming Everyone Must Watch](http://www.makeuseof.com/tag/ted-talks-programming/)
+* [Github help](https://help.github.com/)
 
 ## Good Reads
 
@@ -21,6 +22,7 @@ of new sources of inspiration and knowledge.
 3. [Agile Manifesto](http://agilemanifesto.org/): It amazes me how many people claim to know "Agile", but have never actually read this.
 4. [Principles behind the Agile Manifesto](http://agilemanifesto.org/principles.html): The often ignored sub-page.
 5. [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university)
+6. [Ruby Rogues Picks](https://github.com/ryanburgess/ruby-rogues-picks)
 
 ## Pair Programming
 
@@ -70,16 +72,64 @@ Screencasts](https://www.destroyallsoftware.com/screencasts/catalog).
 5. [Google dev blog](https://developers.googleblog.com/)
 6. [Air BnB](https://github.com/airbnb)
 7. [Heroku Blog](https://blog.heroku.com/engineering)
+8. [Github](https://github.com)
+  - [blog](https://blog.github.com/)
+9. [Thoughbot](https://thoughtbot.com)
+  - [Learn hub](https://thoughtbot.com/learn)
+  - [Playbook](https://thoughtbot.com/playbook): How Thoughtbot works.
 
 ## Podcasts
 
 * [Greater Than Code](http://www.greaterthancode.com)
 * [Ruby Rogues](https://devchat.tv/ruby-rogues)
 
-## Languages
+## My Languages of Interest
 
 * My primary languages are Ruby, Javascript, and Java.
 * Wanting to become proficient in functional programming languages like Go,
   Clojure, and Scala.
+
+## Relevance
+
+Three things of importance worth mentioning:
+
+1. Work with technology that you thoroughly enjoy.
+2. Use the right tools for the job.
+3. Be aware of industry standards and emerging technologies available.
+
+Below are resources to help understand which tech I find most enjoyable, a
+matrix of tools to help decide what to use for a given use case, and sources to
+learn about standard and emerging tech.
+
+### Enjoyable Tech
+
+* [Ruby](https://ruby.github.io/TryRuby/): The most enjoyable language I've had the pleasure of working with.
+* Node: Also a refreshingly fun language to build with.
+* VIM: High learning curve, but once you setup [your
+dotfiles](https://github.com/coffeencoke/dotfiles) setup right for your
+preferences, VIM is very rewarding.
+
+### Tools Matrix
+
+TK
+
+### Industry Standards & Emergence
+
+* [AWS Tools and SDKs](https://aws.amazon.com/getting-started/tools-sdks/) is a
+reasonable list of mainstream languages and frameworks.
+
+## Lanugages
+
+Resources to help learn languages:
+
+- Ruby:
+  - [TryRuby](https://ruby.github.io/TryRuby/)
+  - [Ruby Koans](http://rubykoans.com/)
+- [Rust](https://doc.rust-lang.org/stable/book/)
+  - [The Rust Programming Language (Book)](https://doc.rust-lang.org/stable/book/)
+  - [[blog] “The Expressive C++17 Coding Challenge (in Rust)” Revisited
+  ](http://words.steveklabnik.com/the-expressive-c-17-coding-challenge-in-rust-revisited)
+- More TK
+
 
 {% include footer.md %}

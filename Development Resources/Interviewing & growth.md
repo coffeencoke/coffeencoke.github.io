@@ -56,34 +56,5 @@ learning more about technical details of software.
 
 1. [Effective Technical Leadership](https://medium.com/always-be-coding/effective-technical-leadership-b193a544e771)
 
-## Relevance
-
-Three things of importance worth mentioning:
-
-1. Work with technology that you thoroughly enjoy.
-2. Use the right tools for the job.
-3. Be aware of the industry standard and emerging technologies available.
-
-Below are resources to help understand which tech I find most enjoyable, a
-matrix of tools to help decide what to use for a given use case, and sources to
-learn about standard and emerging tech.
-
-### Enjoyable Tech
-
-* [Ruby](https://ruby.github.io/TryRuby/): The most enjoyable languages I've had the pleasure of working with.
-* Node: Also a refreshingly fun language to build with.
-* VIM: High learning curve, but once you setup [your
-dotfiles](https://github.com/coffeencoke/dotfiles) setup right for your
-preferences, VIM is very rewarding.
-*
-
-## Lanugages
-
-Resources to help learn languages:
-
-- Ruby:
-  - [TryRuby](https://ruby.github.io/TryRuby/)
-  - [Ruby Koans](http://rubykoans.com/)
-- More TK
 
 {% include footer.md %}
