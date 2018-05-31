@@ -84,6 +84,7 @@ have plenty of pair programming experience, it's a very good refresher.
 - [Gary Bernhardt](https://www.destroyallsoftware.com/), especially his [Destroy
 All Software
 Screencasts](https://www.destroyallsoftware.com/screencasts/catalog).
+- [Avdi Grimm](http://www.virtuouscode.com/)
 
 ## Companies
 
