@@ -14,6 +14,14 @@ of new sources of inspiration and knowledge.
 * [20 TED Talks on Programming Everyone Must Watch](http://www.makeuseof.com/tag/ted-talks-programming/)
 * [Github help](https://help.github.com/)
 
+## Software & Service Design
+
+1. [Microservices](https://en.wikipedia.org/wiki/Microservices)
+    * [Microservice patterns](http://microservices.io/patterns/microservices.html)
+    * [Martin Fowler on Microservices](https://martinfowler.com/articles/microservices.html) Martin is incredibly smart and an industry leader.
+1. [12 factor app](https://12factor.net/)
+1. [The Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
+
 ## Refactoring
 
 * Mikato Method

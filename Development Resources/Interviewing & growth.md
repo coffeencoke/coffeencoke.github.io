@@ -29,13 +29,6 @@ learning more about technical details of software.
 1. [Dictionary of Data Structures & Algorithms](https://xlinux.nist.gov/dads/)
 1. [Eternally Confuzzled](http://www.eternallyconfuzzled.com/jsw_home.aspx)
 
-## Software & Service Design
-
-1. [Microservices](https://en.wikipedia.org/wiki/Microservices)
-    * [Microservice patterns](http://microservices.io/patterns/microservices.html)
-    * [Martin Fowler on Microservices](https://martinfowler.com/articles/microservices.html) Martin is incredibly smart and an industry leader.
-1. [12 factor app](https://12factor.net/)
-
 ## General Software Resources
 
 2. [Always Be Coding (ABC)](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2)
