@@ -7,6 +7,7 @@ Feel free to share resources you are learning from with me, I am eager to learn
 of new sources of inspiration and knowledge.
 
 - [Interviewing Resources](interviewing-resources)
+- [an app that makes learning algorithms and data structures way more fun](https://medium.freecodecamp.org/i-built-an-app-that-makes-learning-algorithms-and-data-structures-way-more-fun-46fbb8afacaf)
 
 ## General Learning
 
@@ -47,9 +48,11 @@ of new sources of inspiration and knowledge.
 8. [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=0134494164&pd_rd_r=ZJF9X1MPRR3RT0YVVE99&pd_rd_w=G6E9M&pd_rd_wg=FEHtR&psc=1&refRID=ZJF9X1MPRR3RT0YVVE99&dpID=41BjtnvIUQL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=detail)
 9. [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=020161622X&pd_rd_r=ZJF9X1MPRR3RT0YVVE99&pd_rd_w=G6E9M&pd_rd_wg=FEHtR&psc=1&refRID=ZJF9X1MPRR3RT0YVVE99)
 10. [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=pd_sim_14_6?_encoding=UTF8&pd_rd_i=0137081073&pd_rd_r=ZJF9X1MPRR3RT0YVVE99&pd_rd_w=G6E9M&pd_rd_wg=FEHtR&psc=1&refRID=ZJF9X1MPRR3RT0YVVE99)
+- [Developer Playbook](https://github.com/sul-dlss/DeveloperPlaybook) - A place to organize style guides, best practices, tools, and techniques for Stanford University's Digital Library Systems & Services Group.
 
 ## Principles & Process
 
+1. [Culture and Organizational Resources](culture-and-organizational-resources)
 3. [Agile Manifesto](http://agilemanifesto.org/): It amazes me how many people claim to know "Agile", but have never actually read this.
 4. [Principles behind the Agile Manifesto](http://agilemanifesto.org/principles.html): The often ignored sub-page.
 5. [Kanban](https://en.wikipedia.org/wiki/Kanban_(development))
@@ -108,6 +111,7 @@ Screencasts](https://www.destroyallsoftware.com/screencasts/catalog).
 9. [Thoughbot](https://thoughtbot.com)
   - [Learn hub](https://thoughtbot.com/learn)
   - [Playbook](https://thoughtbot.com/playbook): How Thoughtbot works.
+10. [OpenSource.com](https://opensource.com/)
 
 ## Podcasts
 
