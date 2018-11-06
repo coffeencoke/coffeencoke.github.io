@@ -10,6 +10,7 @@ A notebook written by [@coffeencoke](https://github.com/coffeencoke) which inclu
 
 > Coffee n' Coke, combine iced espresso, cream, and Coca-Cola.
 
+- [Culture & Organizational Resources](culture-and-organizational-resources)
 - [Software Programming Resources](software-programming-resources)
 - [Interviewing Resources](interviewing-resources)
 
