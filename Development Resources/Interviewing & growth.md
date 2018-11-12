@@ -49,5 +49,8 @@ learning more about technical details of software.
 
 1. [Effective Technical Leadership](https://medium.com/always-be-coding/effective-technical-leadership-b193a544e771)
 
+## Learning & Growth
+
+1. [Fixed vs. growth mindset](http://www.aaronsw.com/weblog/dweck)
 
 {% include footer.md %}
