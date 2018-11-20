@@ -1,3 +1,7 @@
+---
+permalink: software-development-methodologies-and-philosophies
+---
+
 # Software Development Methods & Philosophies
 
 ## Thesis Statement
