@@ -4,6 +4,8 @@ permalink: software-development-methodologies-and-philosophies
 
 # Software Development Methods & Philosophies
 
+This research is incomplete.
+
 ## Thesis Statement
 
 - There are many methods and philosophies that describe how a team or organization should develop software.
