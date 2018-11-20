@@ -1,4 +1,6 @@
-# Thesis Statement
+# Software Development Methods & Philosophies
+
+## Thesis Statement
 
 - There are many methods and philosophies that describe how a team or organization should develop software.
 - Teams adopt these methods and philosophies inherently or without intentional thought. Which leads them to be suboptimal in their performance.
@@ -6,7 +8,7 @@
 
 My goals with this research are to a.) identify and  understand the individual and shared properties of each distinct method, philosophy, team, and product type in a software development context; b.) Produce recommendations on which methods and philosophies should be used with each team and product type; c.) Describe any methods and philosophies that work best together; and d.) Describe any methods and philosophies that work against each other.
 
-# Outline
+## Outline
 
 1. Description of Entities
     1. Methodologies
@@ -42,8 +44,10 @@ Also relevant:
 2. MoSCoW method
 
 
-# Description of Entities
+## Description of Entities
 
-## Methodologies
+### Methodologies
+
+More TK.
 
 {% include footer.md %}
