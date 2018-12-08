@@ -22,6 +22,10 @@ Many of the resources below are wonderful sources of innovative cultural, organi
 - [Spend 10 hours a week on compound time](https://medium.com/the-mission/why-successful-people-spend-10-hours-a-week-on-compound-time-79d64d8132a8)
 - [Redhat's Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework) - A community version of the Open Decision Framework [pdf copy](https://github.com/red-hat-people-team/open-decision-framework/blob/master/ODF-community.pdf)
 - [red-hat-multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) - An open leadership capability that defines five behaviors (connection, trust, collaboration, transparency, meritocracy)
+* Simon Sinok: Author for leadership and personal development, mentioned by @Simpson (Alexa), Matt 
+    * [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en) **(perhaps we'll watch this next week)**
+    * [Millennials in the Workplace](https://www.youtube.com/watch?v=hER0Qp6QJNU) **(or this)**
+    * [Start With Why](https://startwithwhy.com/)
 
 
 {% include footer.md %}
