@@ -37,6 +37,7 @@ of new sources of inspiration and knowledge.
 ## Fun & Inspiring
 
 1. [The Tao of Programming](http://www.mit.edu/~xela/tao.html): Love this.
+1. [Unix Fu](http://www.unixfu.ch/unix-fu/)
 2. [Why's (Poignant) Guide To Ruby](http://poignant.guide/): Love this too.
 6. [Ruby Rogues Picks](https://github.com/ryanburgess/ruby-rogues-picks)
 
