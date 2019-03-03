@@ -14,7 +14,7 @@ A notebook written by [@coffeencoke](https://github.com/coffeencoke) which inclu
 - [Software Programming Resources](software-programming-resources)
 - [Interviewing Resources](interviewing-resources)
 
-## Breifly About Myself
+## Briefly About Myself
 
 - [I work at Amazon](https://www.linkedin.com/in/coffeencoke/) as a Software Development Engineer for Alexa.
 - I live in Seattle, WA.
