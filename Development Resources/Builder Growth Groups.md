@@ -1,3 +1,8 @@
+# People
+
+- kibur@
+- 
+
 # Builder Growth Groups
 
 > Hire and Develop the Best
@@ -17,7 +22,7 @@ By meeting in a group setting, you will:
 - Increase your community by meeting more people.
 - Have an opportunity to help others grow in the group.
 
-Subscribe to buildergrowth@amazon.com to get started.
+Subscribe to [buildergrowth@amazon.com](https://email-list.corp.amazon.com/email-list/expand-list/buildergrowth) to get started.
 
 # FAQ
 
