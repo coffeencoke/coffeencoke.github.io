@@ -45,6 +45,10 @@ learning more about technical details of software.
 1. [Local coding meetups](https://www.meetup.com/find/tech/)
 1. [Contribute to an opensource project](https://github.com/MunGell/awesome-for-beginners#awesome-first-pr-opportunities-)
 
+## Practice Problems
+
+In the spirit of Always Be Coding (above), I generally use the [TopCoder Practice Problems](https://arena.topcoder.com/#/u/practiceProblemList). You can filter by difficulty and keywords.
+
 ## Technical Leadership
 
 1. [Effective Technical Leadership](https://medium.com/always-be-coding/effective-technical-leadership-b193a544e771)
